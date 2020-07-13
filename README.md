@@ -1,3 +1,5 @@
+This project is a simple react application that uses a wasm project (sudoku) written in rust. This project was completely for an educational purpose only.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
